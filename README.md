@@ -14,11 +14,3 @@ The Letter Recognition data set is available free of charge on the UCI Machine L
 - Associated Tasks: Classification
 - Missing Attribute Values: None
 
-
-## References
-
-[1] Dua, D. and Karra Taniskidou, E. (2017). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
-
-
-
-[2] Frey, P. W., & Slate, D. J. (1991). Letter recognition using Holland-style adaptive classifiers.*Machine learning*,*6*(2), 161-182.
